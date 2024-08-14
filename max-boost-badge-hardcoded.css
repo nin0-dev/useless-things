@@ -1,0 +1,3 @@
+div[aria-label="jacobmanz"] div[aria-label^="Server boosting since "] img {
+    content: url("https://cdn.discordapp.com/badge-icons/ec92202290b48d0879b7413d2dde3bab.png");
+}
